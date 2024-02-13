@@ -1,0 +1,246 @@
+24/7 Premium Support	 	 
+Access To Pro Updates	 	 
+CSS File Generation For Speed Optimization	 	 
+White Label	 	 
+Design
+Page Background Styling	 	 
+Sidebar Designing Styles	 	 
+Colors and Backgrounds	Limited Featured	Full Featured
+Typography	Limited Featured	Full Featured
+Spacing	Limited Featured	Full Featured
+Site Layouts
+Full Width Site Layout	 	 
+Max Width Site Layout	 	 
+Padded Site Layout	 	 
+Fluid Site Layout	 	 
+Dynamic Content Builder Without Code
+Multiple Page Headers	 	 
+Custom Header	 	 
+Custom Footer	 	 
+Custom 404 Page	 	 
+Hooks Support to Add Custom Code	 	 
+Header
+Sticky When Scroll Up	 	 
+Shrink When Scroll Up	 	 
+Hide Sticky When Scroll Down	 	 
+Sticky Header Animations	 	 
+Mega Menu	 	 
+Container Width for Menu Dropdown	 	 
+100% Width for Menu Dropdown	 	 
+Gutenberg Templates in Menu Dropdown	 	 
+Elementor Templates in Menu Dropdown	 	 
+Beaver Builder Templates in Menu Dropdown	 	 
+Divi Builder Templates in Menu Dropdown	 	 
+Brizy Templates in Menu Dropdown	 	 
+Widgets in Menu Dropdown	 	 
+Flyout Off-Canvas Menu	 	 
+Full Screen Off-Canvas Menu	 	 
+Slide Search	 	 
+Full Screen Search	 	 
+Header Cover Search	 	 
+Multiple HTML Elements	2 Elements	 
+Multiple Widget Elements	 	 
+Multiple Button Elements	 	 
+Divider Elements	 	 
+Color & Typography Options	 	 
+Footer
+Multiple HTML Elements	 	 
+Multiple Button Elements	 	 
+Divider Elements	 	 
+Color & Typography Options	 	 
+Blog
+Blog / Archive Page - Post Content Layouts	 	 
+Blog / Archive Page - Post Grid Control	 	 
+Blog / Archive Page - Date Box Feature	 	 
+Blog / Archive Page - Post Readtime Meta Option	 	 
+Blog / Archive Page - Post Content Excerpt Count	 	 
+Blog / Archive Page - Read More Customization	 	 
+Blog / Archive Page - Feartured Image Size Control	 	 
+Blog / Archive Page - Infinite Pagination	 	 
+Blog / Archive Page - Pagination Styling	 	 
+Blog / Archive Page - Color & Typography Options	 	 
+Blog / Archive Page - Spacings Options	 	 
+Blog / Archive Page - Masonry Layout	 	 
+Blog / Archive Page - Highlight First Post	 	 
+Single Post Page - Post Readtime Meta Option	 	 
+Single Post Page - Author Info Box	 	 
+Single Post Page - Post Navigation Visibility Control	 	 
+Single Post Page - Autoload Previous Post Feature	 	 
+Single Post Page - Feartured Image Size Control	 	 
+Single Post Page - Color & Typography Options	 	 
+Single Post Page - Spacings Options	 	 
+Shortcodes
+Breadcrumbs Shortcode	 	 
+Search Box Shortcode	 	 
+WooCommerce Mini-Cart Shortcode	 	 
+EDD Mini-Cart Shortcode	 	 
+Lifter LMS Profile Shortcode	 	 
+LearnDash Profile Shortcode	 	 
+Scroll to Top
+Scroll to Top Positions	 	 
+Scroll to Top Device Specificity	 	 
+Scroll to Top Styling Options	 	 
+WooCommerce
+Add to Cart - Ajax Based	 	 
+Add to Cart - Product Quantity Button	 	 
+Checkout - Distraction Free Checkout	 	 
+Checkout - Coupon Field Visibility Control	 	 
+Checkout - 2-Step Checkout	 	 
+Checkout - Persistant Form Data	 	 
+Checkout - Display Order Note	 	 
+Header - Customized Cart Menu	 	 
+Shop Page - Horizontal Content Layout	 	 
+Shop Page - Breadcrumb	 	 
+Shop Page - Product Styling Options	 	 
+Shop Page - Add to Cart Button Styling	 	 
+Shop Page - Infinite Pagination	 	 
+Shop Page - Quick View on Image Hover	 	 
+Shop Page - Quick View on Image Click	 	 
+Shop Page - Quick View on Button Click	 	 
+Shop Page - Off-Canvas Sidebar	 	 
+Shop Page - Colors & Typography Options	 	 
+Single Product - Upsell Feature	 	 
+Single Product - Image Width Option	 	 
+Single Product - Related Products	 	 
+Single Product - Vertical Gallery Option	 	 
+Single Product - Horizontal Gallery Option	 	 
+Single Product - Image Zoom Effect	 	 
+Single Product - Customized Navigations	 	 
+Single Product - Product Description Layouts	 	 
+Single Product - Colors & Typography Options	 	 
+Easy Digital Downloads
+Checkout - Distraction Free Checkout	 	 
+Checkout - Coupon Field Visibility Control	 	 
+Checkout - Checkout Form Width Control	 	 
+Header - Customized Cart Menu	 	 
+Shop Page - Horizontal Content Layout	 	 
+Shop Page - Product Styling Options	 	 
+Shop Page - Add to Cart Button Styling	 	 
+Shop Page - Colors & Typography Options	 	 
+Single Product - Add to Cart Visibility Control	 	 
+Single Product - Colors & Typography Options	 	 
+Learndash
+Header - Enable Distraction Free Learning	 	 
+Header - Student's Gravatar Menu	 	 
+Course Content Table - Colors & Typography Options	 	 
+Lifter LMS
+Checkout - Distraction Free Checkout	 	 
+Header - My Account Menu	 	 
+Account Page - Vertical Menu Options	 	 
+Membership Page - Course Columns Option	 	 
+Course List Page - Course Columns Option	 	 
+Student - Course/Lesson Page - Distraction Free Learning	 	 
+Student - Course/Lesson Page - Featured Image Visibility Control	 	 
+Student - Course/Lesson Page - Course Description Visibility Control	 	 
+Student - Course/Lesson Page - Course Meta Visibility Control	 	 
+Student - Course/Lesson Page - Instructor Detail Visibility Control	 	 
+Student - Course/Lesson Page - Progress Bar Visibility Control	 	 
+Visitor - Course/Lesson Page - Featured Image Visibility Control	 	 
+Visitor - Course/Lesson Page - Course Meta Visibility Control	 	 
+Visitor - Course/Lesson Page - Syllabus Visibility Control	 	 
+Integrations
+WooCommerce	Limited Featured	Full Featured
+LifterLMS	Limited Featured	Full Featured
+LearnDash	Limited Featured	Full Featured
+Easy Digital Downloads	Limited Featured	Full Featured
+
+
+
+In-Depth Articles	 	 
+Video Tutorials	 	 
+100% Responsive	 	 
+React Based Customizer	 	 
+Schema Integrated	 	 
+SEO Optimized	 	 
+Design
+Header Drag Drop Builder	 	 
+Footer Drag Drop Builder	 	 
+Google Fonts	 	 
+Custom Fonts	 	 
+Responsive Font Size	 	 
+Font Size (PX/EM)	 	 
+Text Transform	 	 
+Site Layouts
+Container Layout	 	 
+Header
+Transparent Header	 	 
+Breadcrumb	 	 
+Mobile Header	 	 
+Above Header	 	 
+Primary Header	 	 
+Below Header	 	 
+Footer
+Above Footer	 	 
+Primary Footer	 	 
+Below Footer	 	 
+Coloumn and Layout Controls	 	 
+Content Width Control	 	 
+Content Alignement Control	 	 
+Blog
+Blog / Archive Page - Content Width Control	 	 
+Blog / Archive Page - Post Structure & Meta Visibility Control	 	 
+Single Post Page - Content Width Control	 	 
+Single Post Page - Post Structure & Meta Visibility Control	 	 
+WooCommerce
+Header - Drop Down Cart	 	 
+Shop Page - Sale Bubble Style	 	 
+Shop Page - Columns Control	 	 
+Shop Page - Product Structure Control	 	 
+Shop Page - Content Width Control	 	 
+Single Product - Breadcrumb - Visibility Control	 	 
+Easy Digital Downloads
+Shop Page - Columns Control	 	 
+Shop Page - Product Structure Visibility Control	 	 
+Shop Page - Add to Cart Button Customization	 	 
+Starter Templates
+Free Starter Templates (Non Agency)	 	 
+Integrations
+Schema Integrated	 	 
+SEO Optimized	 	 
+AMP Ready	 	 
+Rank Math, Yoast SEO, Breadcrumb NavXT Support in Breadcrumb	 	 
+Page Builder Compatibility
+Gutenberg	 	 
+Elementor	 	 
+Beaver Builder	 	 
+Divi Builder	 	 
+Brizy	 	 
+WPBakery Visual Composer	 	 
+Thrive Architect	 	 
+Ecommerce Compatibility
+WooCommerce	 	 
+Easy Digital Downloads	 	 
+CartFlows	 	 
+LMS Compatibility
+LearnDash	 	 
+Lifter LMS	 	 
+Tutor LMS	 	 
+Caching Plugin Compatibility
+WP Rocket	 	 
+Autoptimize	 	 
+W3 Total Cache	 	 
+LiteSpeed Cache	 	 
+WP Fastest Cache	 	 
+RunCloud	 	 
+NGINX Helper	 	 
+SEO Compatibility
+Yoast	 	 
+Rank Math	 	 
+SEOPress	 	 
+Translation Compatibility
+WPML - The WordPress Multilingual Plugin	 	 
+Polylang	 	 
+Weglot	 	 
+Contact Forms Compatibility
+Gravity Forms	 	 
+WPForms	 	 
+WP Fluent Forms	 	 
+Ninja Forms Contact Form	 	 
+Contact Form 7	 	 
+Other Plugin Compatibility
+Jetpack	 	 
+AMP	 	 
+One Subscription.
+Ultimate Toolkit. Unlimited Websites.
+Growth Bundle Includes
+Essential Bundle Includes
